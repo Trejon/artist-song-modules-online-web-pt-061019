@@ -35,3 +35,11 @@ class Song
   def artist=(artist)
     @artist = artist
   end
+
+ #def self.count
+  #  self.all.count
+  #end
+
+  def artist=(artist)
+    @artist = artist
+  end
